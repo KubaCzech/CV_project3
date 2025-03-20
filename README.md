@@ -1,7 +1,7 @@
 # Image Inpainting Using Deep Learning
 
 ## Project Overview
-This project focuses on image inpainting, where missing parts of an image are reconstructed using deep learning techniques. Our goal is to train a neural network model to restore missing regions in human face images by learning patterns from complete images. This project was carried out during Computer Vision course on AI Vth sem on PUT.
+This project focuses on image inpainting, where missing parts of an image are reconstructed using deep learning techniques. Our goal is to train a neural network model to restore missing regions in human face images by learning patterns from complete images.
 
 ## Dataset Description
 We used the Human Faces dataset from Kaggle, which contains over 7,000 images representing diverse human faces across different ages, ethnicities, and profiles.
@@ -36,5 +36,5 @@ Evaluate the model on test images.
 Visualize the inpainting results and analyze performance metrics.
 
 ---
-**Authors**: Piotr Balewski 156037, Kuba Czech 156035
+**Authors**: PBalewski, KubaCzech
 **Date**: January 2025
